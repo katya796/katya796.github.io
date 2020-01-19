@@ -1,0 +1,23 @@
+.main {
+    display: inline-block;
+    width: 100%;
+}
+.main-1 {
+    display: block;
+    float: left;
+    width: 10%;
+    text-align: center;
+    font-family: arial;
+    font-weight: 600;
+}
+.main-1 a {
+    color: #006400;
+}
+.main-1 a:hover {
+    color: black;
+}
+.main-2 {
+    display: block;
+    float: right;
+    width: 90%
+}
