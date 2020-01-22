@@ -22,7 +22,7 @@
 }
 .card {
     display: inline-table;
-    width: 370px;
+    width: 32%;
     text-align: center;
     border-color: black; 
     border-style: solid; 
@@ -42,4 +42,7 @@ h3 {
 }
 ul {
     list-style:none;
+}
+h5 {
+    font-weight: normal;
 }

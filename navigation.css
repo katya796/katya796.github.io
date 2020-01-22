@@ -27,8 +27,6 @@ a {
     float:right; 
     margin-left: 15px;
     margin-top: 25px;
-    /* padding:12px;
-    width: 10%;   */
 } 
 .nav-li a {
     background: #228B22;
@@ -40,4 +38,27 @@ a {
 .nav-li a:hover {
     background: #FFFF00;
     color: black;
+}
+.bot_ul {
+    list-style:none;
+    margin: 0;
+    padding-left: 0;
+}
+.bot_li {
+    text-align: center;
+    background: rgb(219, 247, 168);
+    font-family: arial;
+    border-radius: 4px;
+    margin: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.bot {
+    float: center;
+}
+.bot_li a {
+    color: black;
+}
+.bot_ul :hover {
+    background: rgb(200, 245, 95);
 }
