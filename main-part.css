@@ -17,7 +17,30 @@
     color: black;
 }
 .main-2 {
-    display: block;
-    float: right;
+    display: inline-block;
+    /* float: right; */
     width: 90%
+}
+.card {
+    display: inline-table;
+    width: 370px;
+    text-align: center;
+    border-color: black; 
+    border-style: solid; 
+    padding: 5px;
+}
+.card_img {
+    width: 350px;
+    height: 230px;
+}
+.foot {
+    text-align: right;
+    width: 100%; 
+}
+h3 {
+    font-size: larger;
+    text-decoration: underline;
+}
+ul {
+    list-style:none;
 }
