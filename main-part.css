@@ -46,3 +46,15 @@ ul {
 h5 {
     font-weight: normal;
 }
+.contact {
+    border: darkolivegreen 3px double;
+    width: 60%
+}
+.contact label {
+    font-size: 1.7em;
+    font-weight: 700;
+}
+.contact input {
+    border: green 2px solid;
+    border-radius: 1.7em;
+}
