@@ -1,8 +1,11 @@
 .nav {
     background-color: #98FB98;
     height: 80px; 
-    display:inline-block;
     width: 100%;
+}
+.nav-con {
+    display: flex;
+    justify-content: space-between;
 }
 .br-name {
     display: block;
@@ -24,7 +27,7 @@ a {
     text-decoration: none; 
 }
 .nav-li {
-    float:right; 
+    float:right;   
     margin-left: 15px;
     margin-top: 25px;
 } 
